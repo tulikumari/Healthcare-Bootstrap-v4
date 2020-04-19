@@ -1,0 +1,278 @@
+
+
+@media only screen and (min-width: 992px) {
+  .consumer_left_inner{ margin-right: 90px; float: right; }
+  .healthcare_work_inner{ margin-right: 70px; float: right; width:550px; }
+  
+
+.surgery_inner_position{ position: relative; }
+.surgery_work_r{ position: absolute; right: 0; top: 90px; padding-top: 0; bottom: 0; margin: auto; background: url("../images/surgery_5.png") no-repeat center top; }
+.healthcare_work_position{ position: relative; }
+.healthcare_work_r{ position: absolute; right: 0; top: 90px; padding-top: 0; bottom: 0; margin: auto; background: url("../images/healthcare_2.png") no-repeat center top; }
+
+}
+
+@media only screen and (min-width: 768px) {
+  .healthcare_box .row{ display: table; table-layout:fixed; width: 100%; margin: 0!important;  }
+.healthcare_box .row > div{ display: table-cell;
+    width: 100% !important;
+    vertical-align: middle;
+ }
+.healthcare_box .row > div.col-md-4{ display: table-cell; width:120px !important; }
+.logo_sec{ position: absolute; left: 0; top: 0; }
+.logo_r{ display: table; margin:0px auto; margin-left: }
+.header_relative{ position: relative; }
+.right_menu{ position: absolute; right: 0; top: 10px; }
+.right_menu_btn span{ background-color: #f58c5b; height: 3px; width: 30px; display: block; margin-bottom: 4px; }
+.consumer_top_inner{ position: relative; }
+.consumer_right{ position: absolute; right: 0; top: 0; bottom: 0; margin: auto; background: url("../images/2.png") no-repeat center center; }
+.consumer_list ul li{ margin-top: 35px; margin-bottom: 0; }
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .banner_sec a, .banner_sec a:hover {
+    font-size: 18px;
+    text-decoration: none; 
+    width: 180px;
+    height: 87px;
+  }
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.navbar-expand-md .navbar-nav > .nav-item {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ .navbar-expand-md .navbar-nav .nav-link{ font-size:16px; }
+ .banner_sec a, .banner_sec a:hover {
+  font-size: 18px;
+  text-decoration: none; 
+  width: 180px;
+  height: 87px;
+ }
+ .banner_sec h1{ font-size: 34px; }
+ .banner_sec a.btn2 {
+    margin-left: 330px;
+  }
+
+  .fot_bot a, .fot_bot a:hover {
+    font-size: 18px;
+    text-decoration: none; 
+    width: 180px;
+    height: 87px;
+   }
+   .fot_bot a.btn2 {
+      margin-left: 330px;
+    }
+    .surgery_work_l, .surgery_work_r{
+      padding-top: 0px;
+      width: 100%;
+      float: none;
+  }
+  .surgery_work_l{ margin-top: 45px; margin-bottom: 25px; }
+  .surgery_it_work{ padding-bottom: 50px; }
+  .surgery_btn{ margin-left: 25px; }
+  .surgery_whom_inner2:after{ top: 70%; }
+  .surgery_whom_inner2:before{ top: 68.5%; }
+  .get_touch_l{ float: none; width: 100%; }
+  .get_touch_r{ float: none; width: 100%; }  
+  .healthcare_work_l{
+    padding-top: 40px;
+    width: 100%;
+    float: none;
+  }
+  .healthcare_work_r{
+    padding-top: 90px;
+    width: 100%;
+    float: none; 
+  }
+  .healthcare_work_l h1.section_title{ padding-bottom: 25px; }
+  .consumer_problem:after{ right: 120px; }
+  .consumer_dot a, .consumer_dot a:hover {
+    font-size: 18px;
+    text-decoration: none; 
+    width: 180px;
+    height: 87px;
+   }
+   .consumer_dot a.btn2 {
+      margin-left: 330px;
+    }
+    .healthcare_work_inner{ padding-left: 30px; padding-right: 30px; }
+    .healthcare_work_r2 {
+      padding-top: 0px;
+      width: 100%;
+      float: none;
+    }
+    .healthcare_work_l2{ padding-top: 0; }
+    .hide_desk2{ display: block !important; }
+    .surgery_work_l2{ margin-top:0px; margin-bottom: 0px;  }
+}
+@media only screen and (max-width: 767px) {
+ .logo_sec{ position:absolute; left:15px; top:25px; }
+ .logo{ float:none; }
+ .logo_r{ float:right; }
+ .navbar-collapse{ position:absolute; left:0; right:0; background-color:#333333; top:96px; padding-top:10px; padding-bottom:10px; }
+ .navbar-expand-md .navbar-nav .nav-link{ color:#fff; }
+ .navbar-expand-md .navbar-nav > .nav-item{ padding-top:5px; padding-bottom:5px; }
+ header{ border-bottom-color: #999999; position:fixed; padding-bottom: 30px; }
+ .banner_sec h1{ font-size: 34px; }
+ .banner_btn{ position: relative; top: 0px; text-align: center; }
+ .banner_sec a.btn1, .banner_sec a.btn2 {
+    margin-left: 0px;
+  }
+  .banner_sec a.btn2 { margin-top: 12px; }
+  .banner_circle{ 
+    background-size:100% 100%; 
+     width: 420px; height: 400px; 
+  }
+  .navbar-expand-md .navbar-nav > .nav-item {
+    margin-left: 25px;
+  }
+  .option2 ul li{ display: block; padding-top: 4px; padding-bottom: 4px; }
+  .option2{ padding:40px 15px; }
+  .banner_sec a.btn1, .banner_sec a.btn2{ display: table; margin: 0px auto; }
+  .banner_sec a.btn2{ margin-top: 20px; }
+  .banner_sec { padding-bottom: 160px; }
+  .success_list li{ width: 100%; }
+  .success_list li{ margin-top: 45px; }
+  .consumer_left, .consumer_right, .consumer_left2, .consumer_right2 {
+    float: none;
+    width: 100%;
+ }
+ .fot_bot { background-size: cover; }
+ .fot_bot .btn_sec{ position: relative; top: 0px; text-align: center; margin-top: 25px; }
+ .btn_sec a.btn1, .btn_sec a.btn2 {
+    margin-left: 0px;
+  }
+  .btn_sec a.btn2 { margin-top: 12px; }
+  .fot_bot .circle{ 
+    background-size:100% 100%; 
+     width: 380px; height: 380px; 
+  }
+  .fot_bot .circle p{ padding-top: 123px; }
+  .provider_article{ margin-top: 65px; }
+  .healthcare{ padding-top: 100px; padding-bottom: 100px; }
+  .healthcare h1{ margin-top: 0px !important; }
+  .partner_top {
+    padding-top: 60px;
+  }
+  .partner_logo span{ width: 48%; }
+  .hide_mob{ display: none !important; }
+  .hide_desk{ display: block !important; }
+  .consumer {
+    padding-bottom: 0px;
+   }
+   .consumer_left2{ padding-top: 80px; padding-bottom: 80px; }
+   .provider_inner{ margin-top: 45px; }
+   .provider_inner:after{ left: 0px; right: 0px; margin: auto; top: 0px; bottom: 0px; width: 1px !important; height: 100%; }
+   .provider_inner:before{ position: absolute; left: 0px; right: 0; margin: auto; top: 0px; }
+
+   .surgery_whom_inner2{ margin-top: 65px; }
+   .surgery_whom_inner2:after{ left: 0px; right: 0px; margin: auto; top: 0px; bottom: 0px; width: 1px !important; height: 100%; }
+   .surgery_whom_inner2:before{ position: absolute; left: 0px; right: 0; margin: auto; top: 0px; }
+   .surgery_whom_inner{ padding: 50px 40px; }
+   .surgery_work_l, .surgery_work_r{
+    padding-top: 0px;
+    width: 100%;
+    float: none;
+    }
+    .surgery_btn {
+      margin-left: 25px;
+  }
+    .get_touch_l{ float: none; width: 100%; }
+    .get_touch_r{ float: none; width: 100%; }  
+    .get_touch_inner{ padding-left: 40px; padding-right: 40px; }
+    .surgery_work_l ul li i{ display: table; margin: 0px auto; }
+    .surgery_work_l ul li span{ display: table; margin: 0px auto; margin-bottom: 45px; }
+    .healthcare_work_l{
+      padding-top: 40px;
+      width: 100%;
+      float: none;
+    }
+    .healthcare_work_r{
+      padding-top: 90px;
+      width: 100%;
+      float: none; 
+    }
+    .healthcare_work_inner{ padding-left: 30px; padding-right: 30px; }
+    .healthcare_work_l h1.section_title{ padding-bottom: 25px; }
+    .healcare_step_r{ padding-top: 25px; text-align: center; }
+    .looking_talent_a{ text-align: center; }
+    .looking_talent_arrow img{ margin-top: 40px; }
+    .looking_talent_a a{ margin-top: 40px; }
+    .looking_talent_arrow{ text-align: center; }
+    .looking_talent_arrow img{ width: 80px; }
+    .get_touch_inner{ width: 100%; }
+    .about_box{ padding: 40px 40px; }
+
+    .consumer_problem:after{ left: 0px; right: 0px; margin: auto; top: 114px; bottom: 220px; width: 1px !important; height: 90%; }
+    .consumer_problem:before{ position: absolute; left: 0px; right: 0; margin: auto; top: 0px; }
+    .consumer_problem{ margin-top: 55px; }
+    .consume_article_outer > p{ width: 100%; }
+    .consumer_say_table{ margin-top: 0; }
+    .consumer_say_table > div{ width: 50% !important; display: inline-block;  padding-bottom: 40px; vertical-align: top !important;  }
+    .consumer_say_table h2{ padding-top: 0px; }
+
+    .employer_article{ margin-top: 65px; }
+    .employer_inner{ margin-top: 45px; }
+    .employer_inner:after{ left: 0px; right: 0px; margin: auto; top: 0px; bottom: 0px; width: 1px !important; height: 100%; }
+    .employer_inner:before{ position: absolute; left: 0px; right: 0; margin: auto; top: 0px; }
+
+    .ask_onboard_inner:after{ left: 0px; right: 0px; margin: auto; top: 260px; bottom: 220px; width: 1px !important; height: 90%; }
+    .ask_onboard_inner:before{ position: absolute; left: 0px; right: 0; margin: auto; top: 64px; }
+    .ask_onboard_inner{ margin-top: 0px; }
+    .ask_onboard_inner .section_title{ margin-bottom: 35px; }
+
+    .ask_solution2_inner:after{ display: none; }
+    .ask_solution2_inner:before{ display: none; }
+    .consumer_right{ background: none; }
+    .healthcare_work_r2 {
+      padding-top: 0px;
+      width: 100%;
+      float: none;
+    }
+    .healthcare_work_l2{ padding-top: 0; }
+    .hide_desk2{ display: block !important; }
+    .surgery_work_l2{ margin-top:0px; }
+}
+    
+@media (min-width: 576px) and  (max-width: 767px) {
+  .container {
+    max-width: 100%;
+  }
+}
+@media (max-width: 575px) {
+ 
+}
+@media only screen and (min-width: 1600px) {
+  .consumer_list ul{ width: 280px; }
+  .consumer_list ul li p{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 18px;
+  }
+  .consumer_list ul li {
+    margin-bottom: 0px;
+  }
+  .consumer_patient_say .container { max-width: 1440px; }
+  .consumer_say_table p { line-height: 26px; }
+  .healthcare_work_inner{ width:600px !important; }
+  .surgery_work_l ul li i{ width: 150px; height: 150px; }
+  .surgery_work_l ul li i img{ width: 44px; margin-left: 55px; margin-top: 46px; }
+  
+  .consumer_list ul{ padding-top: 27px; }
+  .consumer_list ul li { margin-top: 45px; }
+  .consumer_list ul li p{ font-size: 20px; line-height: 28px; }
+  .consumer_list ul { width: 310px; }
+  .consumer_list ul li p {
+    padding-top: 48px;
+    padding-bottom: 50px;
+  }
+  .consumer_6 { margin-top: 85px; }
+  .consumer_bot_6 { margin-top: 85px; }
+  .healthcare_box{ margin-top: 18px; }
+  .surgery_work_l ul li{ margin-bottom:0px; }
+  #rcaptcha{ margin-top:10px; } 
+}
+
+
